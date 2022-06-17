@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+    }
+    
+    #container{
+        display: flex;
+        justify-content: center;
+        width: 500px;
+        height:250px;
+        background-color: black;
+        color: red;
+        border-radius: 10px;
+        color: red;
+        box-shadow: 0vw 0vw 1vw;
+    }
+    
+    #Age{
+        margin-top: 10%;
+       margin-left: 3%;
+       color: red;
+    }
+    
+    #Days{
+        color: red;
+    }
+    #Button{
+        width:100%;
+        margin-top: 5%;
+        height: 20px;
+        border-radius: 100px;
+        color: red;
+    
+    }
